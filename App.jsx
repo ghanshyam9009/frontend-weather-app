@@ -1,6 +1,6 @@
 import { useEffect, useState } from "react";
 
-const API_BASE_URL = "http://localhost:5000/api/weather";
+const API_BASE_URL = "https://backend-weather-app-anda.onrender.com";
 
 const themeMap = {
   clear: {
